@@ -175,10 +175,7 @@ const testSendEmail = async () => {
 testSendEmail();`}
                 </Box>
 
-                <Divider sx={{ my: 2 }} />
-
-                <Typography variant="h5">License</Typography>
-                <Typography variant="body1">This project is licensed under the MIT License - see the LICENSE file for details.</Typography>
+               
             </Paper>
         </Container>
     );
